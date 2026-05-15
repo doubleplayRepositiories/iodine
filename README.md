@@ -1,13 +1,13 @@
-# Iodine Unblocked Games
+# Iodine
 
-A fast, minimalist, and highly customizable unblocked games platform built to bypass network restrictions seamlessly.
+A fast, minimalist, and highly customizable unblocked platform built to bypass network restrictions seamlessly.
 
 ## Features
 
 - **Instant Loading:** Lightweight codebase ensures games load without lag.
 - **Tab Cloaking:** Disguises the site as Google Docs or Canvas with one click.
 - **Clean UI:** No intrusive pop-ups, trackers, or heavy ad scripts.
-- **Massive Catalog:** Access to hundreds of HTML5, Flash (via Ruffle), and WebGL games.
+- **Massive Catalog:** Access to hundreds of HTML5, Flash (via Ruffle), WebGL games, music, shows, tv, and a chatroom.
 - **Anti-Detection:** Built-in proxy support to evade standard school and workplace firewalls.
 
 ## Tech Stack
